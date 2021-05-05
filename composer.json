@@ -1,5 +1,5 @@
 {
-    "name": "araneadev/laravel-electrum",
+    "name": "oasin/laravel-electrum",
     "description": "A Laravel 5.4+ wrapper for Electrum",
     "license": "MIT",
     "authors": [
